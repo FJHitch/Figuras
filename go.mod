@@ -1,3 +1,3 @@
-module github.com/FJHitch/GoLang
+module github.com/FJHitch/figuras
 
 go 1.17
